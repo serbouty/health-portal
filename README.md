@@ -9,7 +9,9 @@
 
 ## Resources
 
-- [Oracle Health Patient Portal](https://docs.oracle.com/en/industries/health/health-patient-portal/)
+- [Oracle : Health Patient Portal](https://docs.oracle.com/en/industries/health/health-patient-portal/)
+- [IBM : IT Topics](https://www.ibm.com/topics)
+- [Microsoft : Microsoft Learn](https://learn.microsoft.com/en-us/)
 
 ## License
 
